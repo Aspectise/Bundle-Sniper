@@ -12,7 +12,7 @@ async def start(self):
                     return
                 for id, price in self.bundles:
                     async with session.get(f"https://catalog.roblox.com/v1/catalog/items/{id}/details?itemType=Bundle", ssl=False) as response:
-                        self.checks += len(self.bundles)
+                        self.checks += 1
                         if response.status == 200:
                             data = await response.json()
                             if data.get("isPurchasable"):
