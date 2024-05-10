@@ -1,0 +1,14 @@
+{
+    "Cookie": "",
+
+    "Webhook": "",
+
+    "Wait_Time": {
+        "Checker_1": 3,
+        "Checker_2": 2
+    },
+
+    "Bundles": {
+        "359150": 100
+    }
+}
