@@ -23,3 +23,9 @@
     }
 }
 ```
+
+## ⭐
+If you like this repo please star it 😊
+
+## Support
+If you want help or want to report a bug join the [Discord](https://discord.gg/deathsniper)
